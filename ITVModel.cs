@@ -6,6 +6,7 @@ namespace checkHU_lung
 {
     internal class ITVModel
     {
+        #region private variable
         private bool _flag = false;
         private List<Structure> _ITV;
         private List<Structure> _PTV;
@@ -14,7 +15,7 @@ namespace checkHU_lung
         private List<Structure> _UserPTV;
         private readonly double _UH;
         private readonly double _seuil;
-
+        #endregion
 
         public ITVModel(List<Structure> ITV, List<Structure> PTV)
         {

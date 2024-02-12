@@ -11,12 +11,6 @@ using checkHU_lung;
 [assembly: ESAPIScript(IsWriteable = true)]
 [assembly: AssemblyVersion("2.0.0.4")]
 
-//
-//
-
-//
-
-
 namespace VMS.TPS
 {
     public class Script

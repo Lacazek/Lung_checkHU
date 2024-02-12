@@ -10,6 +10,7 @@ namespace checkHU_lung
 {
     internal class IndiceModel : INotifyPropertyChanged
     {
+        #region Private variable
         private String _strat;
         private Patient _patient;
         private Structure UHRing;
@@ -25,6 +26,7 @@ namespace checkHU_lung
         private DirectoryInfo CurrentDirectory;
 
         public event PropertyChangedEventHandler PropertyChanged;
+        #endregion
 
         public IndiceModel()
         {
