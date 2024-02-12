@@ -19,7 +19,7 @@ Further investigation will be necessary to refine it, if necessary.
 This script ending with the possibility, for the user, to automatically set, for PTV structure, a value of -750 HU. Following our research, this value gives good agreement for PTV target coverage in Average CT
 and GTV target coverage in every phase of CT scan with max value under 140% prescription dose. This method is simple, fast and reduces the risk of error.
 
-![image](https://github.com/Lacazek/CheckHU_lung/assets/152266244/be54056b-28bf-47d4-903e-b24f05fa0e3a)
+![image](https://github.com/Lacazek/Lung_checkHU/assets/152266244/5aa600e5-46ce-4e50-bc63-bf3e2adb2967)
 
 
 
