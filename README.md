@@ -1,6 +1,7 @@
 # CheckHU_lung
 This script is used for Pulmonary stereotactic radiation therapy. It creates optimisation structures and calculate index for density override for PTV target according to PTVP strategy [1] for VMAT pulmonary stereotactic.
 This code has been drawn up as part of an internship in Oncopole in Toulouse.
+The code is written in French.
 
 This code creates optimisation structure for VMAT only :
 - Ring for gradient dose (3 rings)
